@@ -12,4 +12,3 @@ int main()
         ThisThread::sleep_for(BLINKING_RATE);        
     }
 }
-
